@@ -19,10 +19,15 @@ The goal is to demonstrate practical applications of speech recognition and text
    git clone https://github.com/Adithya3633/OIBSIP.git
 Navigate to the project folder:
    cd OIBSIP
+   
 Install required libraries:
+  
    pip install SpeechRecognition pyttsx3
+   
 Run the script:
+  
    python task_1.py
+   
 Speak into your microphone and the assistant will respond.
 
 📈 Features
